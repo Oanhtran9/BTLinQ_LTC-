@@ -7,7 +7,7 @@ namespace Bai3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tran Thi Oanh - 23115053122330");
+            Console.WriteLine("Tran Thi Oanh - 23115053122330- 225LTC#02");
             List<int>danhsach=new List<int> {6,3,9,1,7,-1,5,2,-5,8,5};
             
             Console.WriteLine("\nDanh sach: ");
