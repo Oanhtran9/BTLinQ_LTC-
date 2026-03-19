@@ -7,24 +7,25 @@ namespace Bai4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tran Thi Oanh - 23115053122330");
+            Console.WriteLine("Tran Thi Oanh - 23115053122330 - 225LTC#02");
             List<int> danhsach = new List<int>();
             Random rd = new Random();
             for (int i = 0; i < 10; i++)
             {
                 danhsach.Add(rd.Next(1, 100));
             }
-            Console.WriteLine("Danh sach so nguyen:");
+            Console.WriteLine("\nDanh sach so nguyen:");
             foreach (int so in danhsach)
             {
-                Console.WriteLine(so);
+                Console.Write(so+" ");
             }
             var giamdan = danhsach.OrderByDescending(so => so);
-            Console.WriteLine("Danh sach giam danh: ");
+            Console.WriteLine("\n\nDanh sach giam danh: ");
             foreach (int so in giamdan)
             {
-                Console.WriteLine(so);
+                Console.Write(so+" ");
             }
+            Console.WriteLine("\n");
         }
     }
 }
