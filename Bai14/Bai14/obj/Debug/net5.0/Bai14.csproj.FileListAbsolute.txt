@@ -1,0 +1,16 @@
+D:\KY6\LTC#\BT_LinQ\Bai14\Bai14\bin\Debug\net5.0\Bai14.exe
+D:\KY6\LTC#\BT_LinQ\Bai14\Bai14\bin\Debug\net5.0\Bai14.deps.json
+D:\KY6\LTC#\BT_LinQ\Bai14\Bai14\bin\Debug\net5.0\Bai14.runtimeconfig.json
+D:\KY6\LTC#\BT_LinQ\Bai14\Bai14\bin\Debug\net5.0\Bai14.runtimeconfig.dev.json
+D:\KY6\LTC#\BT_LinQ\Bai14\Bai14\bin\Debug\net5.0\Bai14.dll
+D:\KY6\LTC#\BT_LinQ\Bai14\Bai14\bin\Debug\net5.0\Bai14.pdb
+D:\KY6\LTC#\BT_LinQ\Bai14\Bai14\obj\Debug\net5.0\Bai14.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY6\LTC#\BT_LinQ\Bai14\Bai14\obj\Debug\net5.0\Bai14.AssemblyInfoInputs.cache
+D:\KY6\LTC#\BT_LinQ\Bai14\Bai14\obj\Debug\net5.0\Bai14.AssemblyInfo.cs
+D:\KY6\LTC#\BT_LinQ\Bai14\Bai14\obj\Debug\net5.0\Bai14.csproj.CoreCompileInputs.cache
+D:\KY6\LTC#\BT_LinQ\Bai14\Bai14\obj\Debug\net5.0\Bai14.sourcelink.json
+D:\KY6\LTC#\BT_LinQ\Bai14\Bai14\obj\Debug\net5.0\Bai14.dll
+D:\KY6\LTC#\BT_LinQ\Bai14\Bai14\obj\Debug\net5.0\refint\Bai14.dll
+D:\KY6\LTC#\BT_LinQ\Bai14\Bai14\obj\Debug\net5.0\Bai14.pdb
+D:\KY6\LTC#\BT_LinQ\Bai14\Bai14\obj\Debug\net5.0\Bai14.genruntimeconfig.cache
+D:\KY6\LTC#\BT_LinQ\Bai14\Bai14\obj\Debug\net5.0\ref\Bai14.dll
