@@ -1,0 +1,16 @@
+D:\KY6\LTC#\BT_LinQ\Bai8\Bai8\bin\Debug\net5.0\Bai8.exe
+D:\KY6\LTC#\BT_LinQ\Bai8\Bai8\bin\Debug\net5.0\Bai8.deps.json
+D:\KY6\LTC#\BT_LinQ\Bai8\Bai8\bin\Debug\net5.0\Bai8.runtimeconfig.json
+D:\KY6\LTC#\BT_LinQ\Bai8\Bai8\bin\Debug\net5.0\Bai8.runtimeconfig.dev.json
+D:\KY6\LTC#\BT_LinQ\Bai8\Bai8\bin\Debug\net5.0\Bai8.dll
+D:\KY6\LTC#\BT_LinQ\Bai8\Bai8\bin\Debug\net5.0\Bai8.pdb
+D:\KY6\LTC#\BT_LinQ\Bai8\Bai8\obj\Debug\net5.0\Bai8.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY6\LTC#\BT_LinQ\Bai8\Bai8\obj\Debug\net5.0\Bai8.AssemblyInfoInputs.cache
+D:\KY6\LTC#\BT_LinQ\Bai8\Bai8\obj\Debug\net5.0\Bai8.AssemblyInfo.cs
+D:\KY6\LTC#\BT_LinQ\Bai8\Bai8\obj\Debug\net5.0\Bai8.csproj.CoreCompileInputs.cache
+D:\KY6\LTC#\BT_LinQ\Bai8\Bai8\obj\Debug\net5.0\Bai8.sourcelink.json
+D:\KY6\LTC#\BT_LinQ\Bai8\Bai8\obj\Debug\net5.0\Bai8.dll
+D:\KY6\LTC#\BT_LinQ\Bai8\Bai8\obj\Debug\net5.0\refint\Bai8.dll
+D:\KY6\LTC#\BT_LinQ\Bai8\Bai8\obj\Debug\net5.0\Bai8.pdb
+D:\KY6\LTC#\BT_LinQ\Bai8\Bai8\obj\Debug\net5.0\Bai8.genruntimeconfig.cache
+D:\KY6\LTC#\BT_LinQ\Bai8\Bai8\obj\Debug\net5.0\ref\Bai8.dll
