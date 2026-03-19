@@ -7,7 +7,7 @@ namespace Bai5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tran Thi Oanh - 23115053122330");
+            Console.WriteLine("Tran Thi Oanh - 23115053122330-225LTC#02 ");
             List<int> danhsach = new List<int>();
             Random rd = new Random();
             for (int i = 1; i < 5; i++)
