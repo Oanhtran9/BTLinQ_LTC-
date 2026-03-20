@@ -14,7 +14,7 @@ namespace Bai11
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tran Thi Oanh - 23115053122330");
+            Console.WriteLine("Tran Thi Oanh - 23115053122330 - 225LTC#02 ");
             List<students> sinhvien = new List<students>()
             {
                 new students { Id = 1,Name="An", Sorce = 8},
@@ -22,12 +22,16 @@ namespace Bai11
                 new students { Id = 3,Name="Cuong", Sorce = 9},
                 new students { Id = 4,Name="Dung", Sorce = 6}
             };
+            foreach (var sv in sinhvien)
+            {
+                Console.WriteLine($"Id: {sv.Id} - Name: {sv.Name} - Sorce: {sv.Sorce}");
+            }
             var topsv = sinhvien.Max(sv => sv.Sorce);
             foreach (var sv in sinhvien)
             {
                 if (sv.Sorce == topsv)
                 {
-                    Console.WriteLine($"Sinh vien co diem cao nhat la: {sv.Name} voi diem {sv.Sorce}");
+                    Console.WriteLine($"\nSinh vien co diem cao nhat la: {sv.Name} - diem {sv.Sorce}");
                 }
             }
         }
