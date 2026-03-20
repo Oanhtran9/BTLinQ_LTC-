@@ -13,7 +13,7 @@ namespace Bai10
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tran Thi Oanh - 23115053122330");
+            Console.WriteLine("Tran Thi Oanh - 23115053122330 - 225LTC#02 ");
             List<students> sinhvien = new List<students>()
             {
                 new students { Id = 1,Name="An", Sorce = 8},
@@ -22,7 +22,7 @@ namespace Bai10
                 new students { Id = 4,Name="Dung", Sorce = 6}
             };
             var sapxep = sinhvien.OrderByDescending(s => s.Sorce);
-            Console.WriteLine("Danh sach sinh vien sau khi sap xep:");
+            Console.WriteLine("\nDanh sach sinh vien sau khi sap xep:");
             foreach (var sv in sapxep)
             {
                 Console.WriteLine($"Id: {sv.Id}, Name: {sv.Name}, Sorce: {sv.Sorce}");
