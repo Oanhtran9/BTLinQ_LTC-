@@ -13,7 +13,7 @@ namespace Bai12
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tran Thi Oanh - 23115053122330");
+            Console.WriteLine("Tran Thi Oanh - 23115053122330 - 225LTC#02");
             List<students> sinhvien = new List<students>()
             {
                 new students { Id = 1,Name="An", Sorce = 8},
