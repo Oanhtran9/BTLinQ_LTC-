@@ -8,7 +8,7 @@ namespace Bai16
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tran Thi Oanh - 23115053122330");
+            Console.WriteLine("Tran Thi Oanh - 23115053122330 - 225LTC#02 ");
             List<int> danhsach = new List<int> { 1, 2, 2, 3, 4, 4, 5 };
             Console.WriteLine("\nDanh sach ban dau:");
             foreach (var so in danhsach)
