@@ -14,7 +14,7 @@ namespace Bai13
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tran Thi Oanh - 23115053122330");
+            Console.WriteLine("Tran Thi Oanh - 23115053122330- 225LTC#02 ");
             List<students> sinhvien = new List<students>()
             {
                 new students { Id = 1,Name="An", Sorce = 6.5},
@@ -27,11 +27,11 @@ namespace Bai13
             var svdau = sinhvien.FirstOrDefault(sv => sv.Sorce > 7);
             if (svdau != null)
             {
-                Console.WriteLine($"Sinh vien dau tien co diem lon hon 7: {svdau.Name} với diem {svdau.Sorce}");
+                Console.WriteLine($"\nSinh vien dau tien co diem lon hon 7: {svdau.Name} - diem {svdau.Sorce}");
             }
             else
             {
-                Console.WriteLine("Khong co sinh vien nao co diem lon hon 7.");
+                Console.WriteLine("\nKhong co sinh vien nao co diem lon hon 7.");
             }
         }
     }
